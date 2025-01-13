@@ -8,3 +8,15 @@ This project implements a simple sentiment analysis tool using the TextBlob Pyth
 - Classifies text as positive or negative.
 - Calculates accuracy for both positive and negative text samples.
 - Outputs detailed performance metrics.
+
+## Files and Structure
+Project Directory
+├── txt_sentoken.zip         # Zipped dataset containing positive and negative text samples
+├── sentiment_analysis.py    # Main script
+
+## Results
+The program prints the following metrics:
+
+- Accuracy for positive text samples.
+- Accuracy for negative text samples.
+- Overall accuracy across all samples.
