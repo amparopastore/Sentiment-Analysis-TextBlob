@@ -10,8 +10,10 @@ This project implements a simple sentiment analysis tool using the TextBlob Pyth
 - Outputs detailed performance metrics.
 
 ## Files and Structure
-Project Directory
+Project Directory 
+
 ├── txt_sentoken.zip         # Zipped dataset containing positive and negative text samples
+
 ├── sentiment_analysis.py    # Main script
 
 ## Results
